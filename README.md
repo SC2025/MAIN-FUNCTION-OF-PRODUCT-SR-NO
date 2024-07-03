@@ -39,7 +39,9 @@ MAIN FUNCTION OF PRODUCT SR NO
 //ADD WIDAUT PHOTO
 
                   <div class="a">
-
+               <div>
+                <img src="WK5.jpeg" alt="WK5">
+              </div>
                     <!-- PRODCT INFORMATION -->
                     <DIV class="PRODCT_INFORMATION">
                     <P><S class="M_price"></S> = </P>
